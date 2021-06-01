@@ -9,7 +9,7 @@ extern float miles_fact;
 float convert_to_miles(float kms){
 	return kms * miles_fact;
 }
-
+hcugsgusbuygugucuugusb
 float load_value(float *kilometers){
 	printf("Please, enter a Km. value: ");
 	scanf("f",kilometers);
